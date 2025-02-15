@@ -1,7 +1,7 @@
-# LP1DPBO2025C1
+# TP1DPBO2025C1
 ## Janji
 
-Saya Rafly Putra Santoso NIM 2100846 mengerjakan latihan 1
+Saya Rafly Putra Santoso NIM 2100846 mengerjakan latihan 1 dan tugas praktikum 1
 dalam mata kuliah Desain Pemrograman Berorientasi Objek
 untuk keberkahanNya maka saya tidak melakukan
 kecurangan seperti yang telah dispesifikasikan
