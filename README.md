@@ -31,3 +31,17 @@ Foto produk (khusus PHP)
 
 Note: Boleh menambahkan atribut lagi, tapi atribut-atribut yang di atas WAJIB
 ADA! Deadlinenya minggu, 15 februari 2025 pukul 11:00 WIB
+
+
+##Penjelasakan 
+
+Lalu untuk penjelasan alur program
+
+Compile file sesuai bahasa
+Run program
+Ketika program berhasil dijalankan , maka akan keluar sebuah menu yang berisi 5 pilihan yaitu:
+1.Tambah : yang berfungsi untuk menambahkan data dengan mengisi input yang dibutuhkan
+2.Tampil : yang berfungsi untuk menampilkan data yang ada
+3.Ubah : yang berfungsi untuk mengubah data
+4.Hapus : yang berfungsi untuk menghapus data
+5.Keluar : yang berfungsi untuk keluar dari program
