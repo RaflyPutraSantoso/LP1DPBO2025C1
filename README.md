@@ -33,7 +33,7 @@ Note: Boleh menambahkan atribut lagi, tapi atribut-atribut yang di atas WAJIB
 ADA! Deadlinenya minggu, 15 februari 2025 pukul 11:00 WIB
 
 
-##Penjelasakan 
+## Penjelasan 
 
 Lalu untuk penjelasan alur program
 
